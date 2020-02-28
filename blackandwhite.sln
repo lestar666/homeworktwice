@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1022
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "blackandwhite", "blackandwhite\blackandwhite.vcxproj", "{D06155ED-F84F-4D11-ABE4-9267C400FBE3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Grayscale", "Grayscale\Grayscale.vcxproj", "{9D2D6C23-C7D8-440B-AC2D-401C4441218B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{D06155ED-F84F-4D11-ABE4-9267C400FBE3}.Release|x64.Build.0 = Release|x64
 		{D06155ED-F84F-4D11-ABE4-9267C400FBE3}.Release|x86.ActiveCfg = Release|Win32
 		{D06155ED-F84F-4D11-ABE4-9267C400FBE3}.Release|x86.Build.0 = Release|Win32
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Debug|x64.ActiveCfg = Debug|x64
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Debug|x64.Build.0 = Debug|x64
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Debug|x86.ActiveCfg = Debug|Win32
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Debug|x86.Build.0 = Debug|Win32
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Release|x64.ActiveCfg = Release|x64
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Release|x64.Build.0 = Release|x64
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Release|x86.ActiveCfg = Release|Win32
+		{9D2D6C23-C7D8-440B-AC2D-401C4441218B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
